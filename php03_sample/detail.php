@@ -1,6 +1,6 @@
 <?php
 // 関数ファイルの読み込み
-
+include('functions.php');
 
 // getで送信されたidを取得
 
